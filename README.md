@@ -14,6 +14,6 @@ Skills: BOOTSTRAP / JS / HTML / CSS
 - 💬 Ask me about Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/aktarkhan5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aktarujjaman-pabel-197320293//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/aktarkhan5/aktarkhan5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aktarujjaman-pabel-197320293//)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/aktarkhan5)  .
+![Profile views](https://gpvc.arturio.dev/https://github.com/aktarkhan5/aktarkhan5)  
