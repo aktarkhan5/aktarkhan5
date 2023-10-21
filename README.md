@@ -9,7 +9,7 @@ I am a passionate frontend developer with a creative mindset . I am able to maki
 Skills: BOOTSTRAP / JS / HTML / CSS
 
 - 🔭 I’m currently working on ABCL IT Institute. 
-- 🌱 I’m currently learning Back-end development.  
+- 🌱 I’m currently learning JavaScript.  
 - 👯 I’m looking to collaborate on as a Front End Developer 
 - 💬 Ask me about Web Development 
 
